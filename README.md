@@ -1,2 +1,2 @@
-# Ilya's React Template
-Template for my react projects
+# Ilya's React Native Template
+Template for my react native projects
