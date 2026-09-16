@@ -1,2 +1,2 @@
-# my-react-template
+# eact-template
 Template for my react projects
